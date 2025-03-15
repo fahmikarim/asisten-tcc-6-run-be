@@ -6,7 +6,7 @@ POST http://localhost:5000/add-user
 Content-Type: application/json
 
 {
-    "name": "tes",
+    "name": "akbar",
     "email": "tes@tes.com",
     "gender": "Male"
 }
